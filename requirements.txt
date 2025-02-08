@@ -1,0 +1,8 @@
+pandas
+numpy
+ta-lib
+ccxt
+scikit-learn
+reservoirpy
+tensorflow
+streamlit
